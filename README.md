@@ -1,2 +1,18 @@
 # EVENTRIX
 Aplicația are ca obiectiv principal facilitarea organizării evenimentelor prin aranjarea meselor și scaunelor, precum și asignarea fiecărui invitat unui loc. Astfel, se urmărește simplificarea procesului de organizare a diverselor evenimente, cum ar fi nunți, botezuri sau orice alt tip de întâlnire festivă.​
+![first](https://github.com/user-attachments/assets/2d43aaf0-23bc-4994-b273-175f5bf93ea7)
+![meniu](https://github.com/user-attachments/assets/83e5ce54-4065-4a2c-8d4d-3ed345e2b806)
+![sala1](https://github.com/user-attachments/assets/1c009809-9ebb-44fe-adfd-661517b30760)
+![sala2](https://github.com/user-attachments/assets/25c8a4ba-2a06-4fc8-a180-3bd8a3ab1a79)
+![sala3](https://github.com/user-attachments/assets/24308674-49ac-4126-9b68-ff05c714c354)
+![sala4](https://github.com/user-attachments/assets/69d8481a-cd7b-44f8-b909-148b9eefcc5f)
+![sala5](https://github.com/user-attachments/assets/445e5d4a-4211-4556-94d0-f8e90352a444)
+![sala6](https://github.com/user-attachments/assets/b05c594c-a29e-4634-8767-3275caddbca9)
+![sala7](https://github.com/user-attachments/assets/b3632b36-912b-4c45-b8ba-0bd968f8b142)
+![sala8](https://github.com/user-attachments/assets/baf7b72c-90cd-48b0-87fe-71ac0afc3bf9)
+![sala9](https://github.com/user-attachments/assets/09366ac0-c9c4-4b3e-b904-f8df3162a42e)
+![sala10](https://github.com/user-attachments/assets/43bb94af-63e6-493a-92ba-ba0fd2c4789a)
+![sala11](https://github.com/user-attachments/assets/7e21c694-8da5-4c9f-a143-def581390023)
+![sala12](https://github.com/user-attachments/assets/5a7eb58a-1d29-4156-a26a-b0172fcc23a6)
+![search](https://github.com/user-attachments/assets/42dffcb4-f3ae-40e4-9b82-5a7b6821705c)
+![search2](https://github.com/user-attachments/assets/8df8648d-06d4-40d6-a13e-d4983539ffdc)
